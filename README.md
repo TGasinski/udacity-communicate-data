@@ -15,7 +15,7 @@ The goal of this project was to:
 The dataset itself was provided through Udacity's Data Analyst Nanodegree program, but similar historical data can also be obtained directly through Prosper via an API, as long as the requester has a valid Prosper account ([source](https://prosper.zendesk.com/hc/en-us/articles/210013083-Where-can-I-download-Prosper-loan-data-)). Documentation for the dataset is available through [Udacity](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) or [Prosper](https://www.prosper.com/Downloads/Services/Documentation/ProsperDataExport_Details.html).
 
 # How to use
-To run the .ipynb files, download the dataset from the /input folder. To view the final output, open the 'explanatory-analysis.slides.html' file. 
+To run the .ipynb files, download the dataset from the /input folder. The original dataset was too large to be uploaded, but a smaller version with relevant columns was able to be uploaded in its place. Comment out cells #4, 5, and 8 in the 'exploratory-analysis.ipynb' file  To view the final output, open the 'explanatory-analysis.slides.html' file. 
 
 # Project License
 This project was submitted by Theresa Gasinski as part of the Udacity Data Analyst Nanodegree.
