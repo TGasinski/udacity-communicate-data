@@ -12,7 +12,7 @@ The goal of this project was to:
 + Use design principles to create effective visualizations for communicating findings to an audience.
 
 # Data Sources
-The dataset itself was provided through Udacity's Data Analyst Nanodegree program, but similar historical data can also be obtained directly through Prosper via an API, as long as the requester has a valid Prosper account ([source](https://prosper.zendesk.com/hc/en-us/articles/210013083-Where-can-I-download-Prosper-loan-data-)). Documentation for the dataset is available through [Udacity](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) or [Prosper](https://www.prosper.com/Downloads/Services/Documentation/ProsperDataExport_Details.html)."
+The dataset itself was provided through Udacity's Data Analyst Nanodegree program, but similar historical data can also be obtained directly through Prosper via an API, as long as the requester has a valid Prosper account ([source](https://prosper.zendesk.com/hc/en-us/articles/210013083-Where-can-I-download-Prosper-loan-data-)). Documentation for the dataset is available through [Udacity](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) or [Prosper](https://www.prosper.com/Downloads/Services/Documentation/ProsperDataExport_Details.html).
 
 # How to use
 To run the .ipynb files, download the dataset from the /input folder. To view the final output, open the 'explanatory-analysis.slides.html' file. 
